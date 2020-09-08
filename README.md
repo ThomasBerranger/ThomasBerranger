@@ -14,6 +14,7 @@
   * MySQL
   * Git
   * Debian
+  * Docker
 - Frameworks
   * Symfony v3.4 - v5
   * Laravel v5
