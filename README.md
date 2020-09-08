@@ -3,7 +3,6 @@
 🎓 I have first discover the web development with HTML, CSS, JS at the highschool and I made the choice to continue my studies in that way. During my 5 years in [YNOV Informatique](https://www.ynov-paris.com/informatique/), I had the chance to work on a lot of project on different technologies.
 
 #### Stack technique
-
 - Langages
     * C++ / C#
     * HTML v5
