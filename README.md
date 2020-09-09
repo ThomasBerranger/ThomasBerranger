@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Thomas, a french web developer full stack !
 
-🎓 I have first discover the web development with HTML, CSS, JS at the highschool and I made the choice to continue my studies in that way. During my 5 years in [YNOV Informatique](https://www.ynov-paris.com/informatique/), I had the chance to work on a lot of project on different technologies.
+🎓 I have first discover the web development with HTML, CSS, JS at the highschool and I made the choice to continue my studies in that way. During my 5 years in [YNOV Informatique](https://www.ynov-paris.com/informatique/), I had the chance to work on a lot of projects on different technologies.
 
 #### Stack technique
 - Langages
