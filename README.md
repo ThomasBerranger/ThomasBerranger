@@ -4,27 +4,13 @@
 
 #### Stack technique
 - Langages
-    * C++ / C#
-    * HTML v5
-    * CSS/SCSS v3
-    * JS ES6
-    * PHP v5 - v7
-    * SQL
+    * C++ / C#, HTML v5, CSS/SCSS v3, JS ES6, PHP v5 - v7, SQL
 - Tools
-  * MySQL
-  * Git
-  * Debian
-  * Docker
+  * Git, Debian, Docker, PhpMyAdmin, Postman, Sourcetree, GitKraken
 - Frameworks
-  * Symfony v3.4 - v5
-  * Laravel v5
-  * Vue.js v2
-  * React
-  * Angular
-  * Bootstrap v3 - v4
+  * Symfony v3.4 - v5, Laravel v5, Vue.js v2, React, Angular, Bootstrap v3 - v4
 - Libraries
-  * Jquery v3
-  * Node.js
+  * Jquery v3, Node.js, Chart.js
 
 🚀 I worked three years in companies with the PHP framework Symfony from the 3.4 version to the 5.1. During thoses I have built several tools as ERP, CRM and Dashboard.
 
