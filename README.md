@@ -32,7 +32,7 @@
 
 🚀 I worked three years in companies with the PHP framework Symfony from the 3.4 version to the 5.1. During thoses I have built several tools as ERP, CRM and Dashboard.
 
-🌱 I’m currently growing my skills with my personal Project ![BroLight](https://brolight.herokuapp.com)
+🌱 I’m currently growing my skills with my personal Project [BroLight](https://brolight.herokuapp.com).
 
 💬 I'll we happy to converse with you about a job proposition or about one of my projects, join me at tberranger@hotmail.fr or by Linkedin at [ThomasBerranger](https://www.linkedin.com/in/thomas-berranger/) !
 
