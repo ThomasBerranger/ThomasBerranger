@@ -34,6 +34,6 @@
 
 🌱 I’m currently growing my skills with my personal Project [BroLight](https://brolight.herokuapp.com).
 
-💬 I'll we happy to converse with you about a job proposition or about one of my projects, join me at tberranger@hotmail.fr or by [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger).
+💬 I'll we happy to converse with you about a job proposition or about one of my projects, let's discuss [here](https://github.com/ThomasBerranger/ThomasBerranger/discussions/1) or you still can join me on [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger).
 
 <!--ThomasBerranger/ThomasBerranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
