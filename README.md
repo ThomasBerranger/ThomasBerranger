@@ -30,9 +30,9 @@
 ![Jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=FFF)
 
-🚀 I worked three years in companies with the PHP framework Symfony from the 3.4 version to the 5.1. During thoses I have built several tools as ERP, CRM and Dashboard.
+🚀 I worked several years in companies with the PHP framework Symfony from the 3.4 version to the 5.4. During thoses I have built several tools as ERP, CRM, Dashboard and CMS.
 
-🌱 I’m currently growing my skills with my personal project [BroLight](https://brolight.herokuapp.com).
+🌱 I’m currently growing my skills with personal projects.
 
 💬 I'll be happy to converse with you about a job proposition or about one of my projects, let's discuss [here](https://github.com/ThomasBerranger/ThomasBerranger/discussions/1) or join me on [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger).
 
