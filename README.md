@@ -30,7 +30,7 @@
 ![Jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=FFF)
 
-🚀 I worked several years in companies with the PHP framework Symfony from the 3.4 version to the 5.4. During thoses I have built several tools as ERP, CRM, Dashboard and CMS.
+🚀 I worked several years in companies with the PHP framework Symfony from the 3.4 version to the 7.1 and Vue.js 3. During thoses I have built several tools as ERP, CRM, Dashboard, CMS and PWA.
 
 🌱 I’m currently growing my skills with personal projects.
 
