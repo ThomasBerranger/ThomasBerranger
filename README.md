@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Thomas, a french web developer full stack !
 
-🎓 I have first discover the web development with HTML, CSS, JS at the highschool and I made the choice to continue my studies in that way. During my 5 years in [YNOV Informatique](https://www.ynov-paris.com/informatique), I had the chance to work on a lot of projects on different technologies.
-
 #### Langages
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFF)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFF)
@@ -30,9 +28,7 @@
 ![Jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=FFF)
 
-🚀 I worked several years in companies with the PHP framework Symfony from the 3.4 version to the 7.1 and Vue.js 3. During thoses I have built several tools as ERP, CRM, Dashboard, CMS and PWA.
-
-🌱 I’m currently growing my skills with personal projects.
+🌱 I’m constantly growing my skills through personal projects.
 
 💬 I'll be happy to converse with you about a job proposition or about one of my projects, let's discuss [here](https://github.com/ThomasBerranger/ThomasBerranger/discussions/1) or join me on [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger).
 
