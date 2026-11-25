@@ -5,18 +5,29 @@ I'm a developer and I create my own projects, like [Pixia](https://github.com/Th
 #### Most used languages
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBerranger&layout=compact&hide_border=true&bg_color=FBF8F2&text_color=55506A&langs_count=6&hide_title=true&card_width=450)](https://github.com/ThomasBerranger?tab=repositories)
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" height="32" alt="Languages" />
+<table>
+  <tr>
+    <td valign="middle"><b>Languages</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" height="32" alt="Languages" align="absmiddle" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Tools</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=phpstorm,git,docker&perline=3" height="32" alt="Tools" align="absmiddle" />
+      <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=FFF" height="32" alt="Claude" align="absmiddle" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Hosting</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=vercel&perline=1" height="32" alt="Vercel" align="absmiddle" />
+      <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFF" height="32" alt="Railway" align="absmiddle" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Frameworks</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=symfony,laravel,vue,react&perline=4" height="32" alt="Frameworks" align="absmiddle" /></td>
+  </tr>
+</table>
 
-#### Tools
-<img src="https://skillicons.dev/icons?i=phpstorm,git,docker&perline=3" height="32" alt="Tools" />
-<img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=FFF" height="32" alt="Claude" />
-
-#### Hosting
-<img src="https://skillicons.dev/icons?i=vercel&perline=1" height="32" alt="Vercel" />
-<img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFF" height="32" alt="Railway" />
-
-#### Frameworks
-<img src="https://skillicons.dev/icons?i=symfony,laravel,vue,react&perline=4" height="32" alt="Frameworks" />
-
-A project in mind, a question about my work, or just want to talk code? Come say hi [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger)
+A project in mind, a question about my work, or just want to talk code? Come say hi <a href="https://www.linkedin.com/in/thomas-berranger"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFF" alt="LinkedIn" align="absmiddle" /></a>
