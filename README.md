@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Thomas, a french web developer full stack !
 
-I'm a developer and I create my own projects, like [Pixia](https://github.com/ThomasBerranger/Pixia) and [Glouton](https://github.com/ThomasBerranger/Glouton).
+I'm a passionate developer who loves designing new projects like [Pixia](https://github.com/ThomasBerranger/Pixia), [Glouton](https://github.com/ThomasBerranger/Glouton) and [Pantheo](https://pantheo.fun).
 
 #### Most used languages
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBerranger&layout=compact&hide_border=true&bg_color=FBF8F2&text_color=55506A&langs_count=6&hide_title=true&card_width=450)](https://github.com/ThomasBerranger?tab=repositories)
