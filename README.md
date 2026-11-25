@@ -10,13 +10,13 @@ I'm a developer and I create my own projects, like [Pixia](https://github.com/Th
 
 #### Tools
 <img src="https://skillicons.dev/icons?i=phpstorm,git,docker&perline=3" height="32" alt="Tools" />
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=FFF)
+<img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=FFF" height="32" alt="Claude" />
 
 #### Hosting
 <img src="https://skillicons.dev/icons?i=vercel&perline=1" height="32" alt="Vercel" />
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFF)
+<img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFF" height="32" alt="Railway" />
 
 #### Frameworks
 <img src="https://skillicons.dev/icons?i=symfony,laravel,vue,react&perline=4" height="32" alt="Frameworks" />
 
-A project in mind, a question about my work, or just want to talk code? Come say hi [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger)
+A project in mind, a question about my work, or just want to talk code? Come say hi [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger)
