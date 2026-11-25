@@ -1,35 +1,22 @@
 ### Hi there 👋 I'm Thomas, a french web developer full stack !
 
-#### Langages
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFF)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFF)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000)
-![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=FFF)
+I'm a developer and I create my own projects, like [Pixia](https://github.com/ThomasBerranger/Pixia) and [Glouton](https://github.com/ThomasBerranger/Glouton).
+
+#### Most used languages
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBerranger&layout=compact&hide_border=true&bg_color=FBF8F2&text_color=55506A&langs_count=6&hide_title=true&card_width=450)](https://github.com/ThomasBerranger?tab=repositories)
+
+#### Languages
+![Languages](https://skillicons.dev/icons?i=html,css,js,php&perline=4)
 
 #### Tools
-![PHPStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=FFF)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFF)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFF)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=FFF)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFF)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=FFF)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=FFF)
-![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=GitKraken&logoColor=FFF)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=FFF)
- 
+![Tools](https://skillicons.dev/icons?i=phpstorm,git,docker&perline=3)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=FFF)
+
+#### Hosting
+![Vercel](https://skillicons.dev/icons?i=vercel&perline=1)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=FFF)
+
 #### Frameworks
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony&logoColor=FFF) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=FFF)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=FFF)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=FFF)
+![Frameworks](https://skillicons.dev/icons?i=symfony,laravel,vue,react&perline=4)
 
-#### Libraries
-![Jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFF)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=FFF)
-
-🌱 I’m constantly growing my skills through personal projects.
-
-💬 I'll be happy to converse with you about a job proposition or about one of my projects, let's discuss [here](https://github.com/ThomasBerranger/ThomasBerranger/discussions/1) or join me on [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger).
-
-<!--ThomasBerranger/ThomasBerranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+A project in mind, a question about my work, or just want to talk code? Come say hi [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/thomas-berranger)
